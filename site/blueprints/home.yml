@@ -1,0 +1,18 @@
+title: Home
+pages: false
+fields:
+  title:
+    label: Title
+    type:  text
+  largeImage:
+    label: Large Top Image
+    type:  image
+  smallImage:
+    label: Smaller Intro Image
+    type:  image
+  largeText:
+    label: Large Description
+    type:  textarea
+  smallText:
+    label: Secondary Description
+    type:  textarea
